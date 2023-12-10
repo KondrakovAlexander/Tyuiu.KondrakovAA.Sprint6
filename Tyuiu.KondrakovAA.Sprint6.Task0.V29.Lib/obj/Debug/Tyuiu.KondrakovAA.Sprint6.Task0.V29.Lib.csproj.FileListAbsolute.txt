@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.csproj.CopyComplete

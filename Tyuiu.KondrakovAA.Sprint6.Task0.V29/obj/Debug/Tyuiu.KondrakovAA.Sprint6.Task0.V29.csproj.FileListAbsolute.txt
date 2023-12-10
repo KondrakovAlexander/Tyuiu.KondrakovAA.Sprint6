@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.FormMain.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task0.V29.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task0.V29\bin\Debug\tyuiu.cources.programming.interfaces.dll
