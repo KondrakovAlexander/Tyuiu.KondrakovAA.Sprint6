@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.FormMain_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task6.V19\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task6.V19.FormAbout_KAA.resources
