@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.FormMain_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task4.V26\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task4.V26.csproj.CopyComplete
