@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.FormMain_KAA.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.exe.config
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.Lib.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\bin\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.exe
+C:\Users\User\source\repos\Tyuiu.KondrakovAA.Sprint6\Tyuiu.KondrakovAA.Sprint6.Task3.V14\obj\Debug\Tyuiu.KondrakovAA.Sprint6.Task3.V14.pdb
